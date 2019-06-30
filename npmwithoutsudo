@@ -1,0 +1,3 @@
+apt-get install node or whatever you need to do to get node up on your machine. This should include executables npm and yarn.
+Set your prefix for global installs, e.g. npm config set prefix ~/.npm
+Update your PATH to include ~/.npm/bin. For example: echo 'export PATH="$HOME/.npm/bin:$PATH"' 
