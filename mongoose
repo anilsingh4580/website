@@ -1,0 +1,2 @@
+ mongodump -d momkidcare  -o /home/ubuntu/mongodbdump/momkidcare/
+ mongorestore -d momkidcare /home/ubuntu/mongodbdump/momkidcare
