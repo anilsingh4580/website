@@ -1,0 +1,2 @@
+//permission in upload folder when migrate
+chown -R www-data:www-data /var/www/newskranti/wp-content/uploads
