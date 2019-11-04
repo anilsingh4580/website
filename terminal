@@ -1,0 +1,2 @@
+upload file on server 
+     sudo scp -i momkidcare.pem build.zip ubuntu@3.13.57.79:/home/ubuntu/admin/
